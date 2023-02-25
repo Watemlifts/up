@@ -143,7 +143,7 @@ golang.org/x/net v0.0.0-20171027103834-c73622c77280 h1:TFSo8RGq2v9crRl/RW0EH71y1
 golang.org/x/net v0.0.0-20171027103834-c73622c77280/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f h1:wMNYb4v58l5UBM7MYRLPG6ZhfOqbKu7X5eyFl8ZhKvA=
 golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
-golang.org/x/sys v0.0.0-20171031081856-95c657629925 h1:nCH33NboKIsT4HoXBsXTWX8ul303HxWgkc5s2Ezwacg=
-golang.org/x/sys v0.0.0-20171031081856-95c657629925/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+golang.org/x/sys v0.1.0 h1:kunALQeHf1/185U1i0GOB/fy1IPRDDpuoOOqRReG57U=
+golang.org/x/sys v0.1.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/text v0.0.0-20171102192421-88f656faf3f3 h1:TtrmcC9vFAjk6IwmXFdqQovdiZxrqQycAYaeCHauPKU=
 golang.org/x/text v0.0.0-20171102192421-88f656faf3f3/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
